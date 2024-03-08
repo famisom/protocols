@@ -9,6 +9,7 @@
 
     <modules>
         <module>../startApp</module>
+        <module>../visualApp</module>
         <module>../mr-231</module>
         <module>../mr-231-3</module>
     </modules>
